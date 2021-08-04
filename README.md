@@ -1,1 +1,1 @@
-Financial-Risk-Prediction
+Financial-Risk-prediction
